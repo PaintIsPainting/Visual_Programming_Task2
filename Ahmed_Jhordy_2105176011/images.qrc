@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>__pycache__/kembali.png</file>
+    <file>__pycache__/silang.png</file>
+    <file>__pycache__/lingkarn2.png</file>
+    <file>__pycache__/persegi.png</file>
+    <file>__pycache__/lingkaran.png</file>
+    <file>__pycache__/frame (2).png</file>
+    <file>__pycache__/boba.jpg</file>
+  </qresource>
+</RCC>
